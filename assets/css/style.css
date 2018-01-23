@@ -232,7 +232,7 @@ form {
  .lBanner{
     float: left;
     width: 280px;
-    height: 40px;
+    height: 47px;
     text-decoration: none;
     color: #f0f0f0;
     font-size: 23px;
@@ -243,13 +243,13 @@ form {
     position: absolute;
     left: 29px;
     text-align: center;
-    padding-top: 20px;
+    padding-top: 13px;
 }
 
  .rBanner {
     float: right;
     width: 280px;
-    height: 40px;
+    height: 47px;
     text-decoration: none;
     color: #f0f0f0;
     font-size: 23px;
@@ -260,7 +260,7 @@ form {
     position: absolute;
     left: 341px;
     text-align: center;
-    padding-top: 20px;
+    padding-top: 13px;
 }
 
 #hangman {
